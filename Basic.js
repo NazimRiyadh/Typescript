@@ -1,6 +1,4 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var b = 14;
-var a = " Riyadh";
-var c = "Nazim";
-var d = 14.5;
+var a = 14;
+console.log(a);
